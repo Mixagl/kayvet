@@ -13,7 +13,7 @@
 
 ## 📸 Preview
 
-![Project Screenshot](https://githubusercontent.com) 
+![Project Screenshot](https://github.com/Mixagl/kayvet/blob/b5570ed68332215d920b5c11358ceea010877b53/public/preview-kayvet.png) 
 <!-- Replace the link above with your actual screenshot path -->
 
 ---
